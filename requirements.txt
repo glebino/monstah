@@ -1,0 +1,13 @@
+pandas~=1.0.3
+pymongo~=3.10.1
+xlsxwriter
+
+xlrd~=1.2.0
+numpy~=1.18.2
+matplotlib~=3.2.1
+#seaborn~=0.10.1
+PyYAML~=5.3.1
+jinja2~=2.11.2
+envelope~=1.1
+seaborn~=0.10.1
+#progress~=1.5

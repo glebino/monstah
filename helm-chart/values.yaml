@@ -1,0 +1,4 @@
+# replicaCount: 1
+image:
+  repository: registry.mydomain.com/backend/monstah 
+  pullPolicy: IfNotPresent
